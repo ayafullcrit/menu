@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="Page-1" id="vhROH1jRgkXK8ZejYC1N">
-    <mxGraphModel dx="1415" dy="2095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,11 +34,11 @@
         <mxCell id="-51DJLreG412Wy1pvwu9-36" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
           <mxGeometry height="21.25" width="21.25" x="115" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="-51DJLreG412Wy1pvwu9-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tìm kiếm gia sư" vertex="1">
-          <mxGeometry height="40" width="120" x="310" y="480" as="geometry" />
+        <mxCell id="-51DJLreG412Wy1pvwu9-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tìm kiếm/Đăng ký gia sư" vertex="1">
+          <mxGeometry height="50" width="160" x="295" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="-51DJLreG412Wy1pvwu9-52" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Đăng ký môn học mới" vertex="1">
-          <mxGeometry height="40" width="160" x="290" y="540" as="geometry" />
+        <mxCell id="-51DJLreG412Wy1pvwu9-52" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Quản lý gia sư&amp;nbsp;&lt;br&gt;đang theo học" vertex="1">
+          <mxGeometry height="50" width="170" x="290" y="540" as="geometry" />
         </mxCell>
         <mxCell id="-51DJLreG412Wy1pvwu9-53" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Đăng ký buổi học mới" vertex="1">
           <mxGeometry height="40" width="150" x="300" y="600" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry height="40" width="120" x="315" y="660" as="geometry" />
         </mxCell>
         <mxCell id="-51DJLreG412Wy1pvwu9-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Thanh toán học phí" vertex="1">
-          <mxGeometry height="40" width="120" x="310" y="720" as="geometry" />
+          <mxGeometry height="40" width="120" x="315" y="720" as="geometry" />
         </mxCell>
         <mxCell id="-51DJLreG412Wy1pvwu9-57" edge="1" parent="1" source="-51DJLreG412Wy1pvwu9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-51DJLreG412Wy1pvwu9-53">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-51DJLreG412Wy1pvwu9-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Đăng ký lớp học mới" vertex="1">
-          <mxGeometry height="40" width="150" x="310" y="780" as="geometry" />
+          <mxGeometry height="40" width="150" x="300" y="780" as="geometry" />
         </mxCell>
         <mxCell id="-51DJLreG412Wy1pvwu9-66" edge="1" parent="1" source="-51DJLreG412Wy1pvwu9-65" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-51DJLreG412Wy1pvwu9-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -115,10 +115,10 @@
             <mxPoint x="460" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-51DJLreG412Wy1pvwu9-75" edge="1" parent="1" source="-51DJLreG412Wy1pvwu9-69" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-51DJLreG412Wy1pvwu9-2" value="">
+        <mxCell id="-51DJLreG412Wy1pvwu9-75" edge="1" parent="1" source="-51DJLreG412Wy1pvwu9-69" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="300" y="110" as="sourcePoint" />
-            <mxPoint x="180" y="220" as="targetPoint" />
+            <mxPoint x="125" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-51DJLreG412Wy1pvwu9-76" edge="1" parent="1" source="-51DJLreG412Wy1pvwu9-70" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-51DJLreG412Wy1pvwu9-2" value="">
@@ -234,9 +234,6 @@
             <mxPoint x="800" y="449" as="sourcePoint" />
             <mxPoint x="925" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-51DJLreG412Wy1pvwu9-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="960" width="580" x="170" y="-120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
