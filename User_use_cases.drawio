@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NvM_g0QD54liZnXL1JHG-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="210" width="630" x="270" y="900" as="geometry" />
+          <mxGeometry height="200" width="630" x="270" y="900" as="geometry" />
         </mxCell>
         <mxCell id="NvM_g0QD54liZnXL1JHG-83" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" value="" vertex="1">
           <mxGeometry height="30" width="150" x="270" y="900" as="geometry" />
@@ -184,13 +184,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NvM_g0QD54liZnXL1JHG-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="250" width="420" x="270" y="1190" as="geometry" />
+          <mxGeometry height="250" width="630" x="270" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="NvM_g0QD54liZnXL1JHG-97" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" value="" vertex="1">
           <mxGeometry height="30" width="110" x="270" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="NvM_g0QD54liZnXL1JHG-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Quên mật khẩu" vertex="1">
           <mxGeometry height="30" width="95" x="277.5" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="ohhZQdOOCnK2chJFGUOu-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Nhận OTP khôi phục&lt;br&gt;qua email" vertex="1">
+          <mxGeometry height="60" width="130" x="750" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="ohhZQdOOCnK2chJFGUOu-2" edge="1" parent="1" source="NvM_g0QD54liZnXL1JHG-89" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ohhZQdOOCnK2chJFGUOu-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="610" y="1130" as="sourcePoint" />
+            <mxPoint x="790" y="1070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
